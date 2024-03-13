@@ -1,0 +1,7 @@
+In this project, we will build a recombining tree to price options (both american and european options). 
+We consider a discrete time model of N steps and a maturity of T for options.
+The economy here has numerous regimes (m regimes) which influence the fluctuation of asset prices (and therefore the price of options). 
+We follow the model presented in the joined pdf file.
+Options prices obtained with our tree is then compared to the prices obtained through Heston model. 
+We invite you to read the pdf part 3 to know about Heston model.
+Reading the file is also recommended for further understanding of the code and different formula.
